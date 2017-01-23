@@ -28,7 +28,7 @@
 
 为了保持各种插件的`git`状态，所以采用了压缩包的方式，请先从以下链接将压缩包`vim_config.tar.gz`下载到本地
 
-    [http://pan.baidu.com/s/1eSDSjOA]http://pan.baidu.com/s/1eSDSjOA
+    [http://pan.baidu.com/s/1eSDSjOA](http://pan.baidu.com/s/1eSDSjOA)
 
 先清干净本地的vim环境，以备后面的安装
 
